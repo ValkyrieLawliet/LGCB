@@ -1,6 +1,6 @@
 ---
 layout: book
-title: 内容简介
+title: 内容简介1
 ---
 
 [观看视频](http://www.imooc.com/video/3524)
